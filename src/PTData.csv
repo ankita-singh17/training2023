@@ -1,0 +1,6 @@
+﻿historicalCompanyId,historicalNumberOfAccidents,historicalPolicyExpirationDate,historicalPolicyInceptionDate,historicalRegistrationBeginDate,historicalRegistrationEndDate,KEY1,segurnetChurn,segurnetDifRegistrationDays,segurnetDistinctAccLastFiveYrs,segurnetHsDirect,segurnetJumpsLastFiveYears,segurnetLastTenurePlate,segurnetNivelBonusDPDirect,segurnetNivelBonusRCDirect,segurnetTotalActivePlatesCount
+1,0,14/10/2021,15/10/2020,15/10/2020,15/10/2020,1,0,1825,0,5,0,1,2,2,1
+1,0,14/10/2021,15/10/2020,15/10/2020,15/10/2020,30,0,3650,0,5,0,2,2,2,2
+1,0,14/10/2021,15/10/2020,15/10/2020,15/10/2020,43,0,3650,0,5,0,2,2,2,2
+1,0,14/10/2021,15/10/2020,15/10/2020,15/10/2020,54,0,3650,0,5,0,2,2,2,2
+1,0,14/10/2021,15/10/2020,15/10/2020,15/10/2020,55,0,3650,0,5,0,2,2,2,2
