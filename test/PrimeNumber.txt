@@ -1,3 +1,4 @@
+//GUI Example for commit
 //Example to show commits
 //Example for stash
 //Lets cover this topic
