@@ -1,6 +1,3 @@
-//GUI Example for commit
-//Example to show commits
-//Example for stash
 //Lets cover this topic
 public class PrimeExample{    
  public static void main(String args[]){    
