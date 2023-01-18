@@ -1,3 +1,5 @@
+// Lets get the conflicts
+// Lets resolve them as well
 // Example for merge conflicts
 // Lets see
 class Adder{  
