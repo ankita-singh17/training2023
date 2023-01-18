@@ -17,6 +17,7 @@ webdriver.timeout=240000
 #username=pfg01
 #password=pfg01
 
+## Example for 1st commit
 # liquibase
 driver=com.microsoft.sqlserver.jdbc.SQLServerDriver
 url=jdbc:sqlserver://localhost:1433;databaseName=pfg84
