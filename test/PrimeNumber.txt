@@ -1,6 +1,7 @@
 //Example for unstaging
 //Example for stash
 //Lets cover this topic
+// Example for stash
 public class PrimeExample{    
  public static void main(String args[]){    
   int i,m=0,flag=0;      
