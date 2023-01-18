@@ -1,3 +1,5 @@
+// See below
+// Example for merge conflict
 //
 // Example for reset
 public class DoWhileExample {    
