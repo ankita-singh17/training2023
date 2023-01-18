@@ -1,3 +1,5 @@
+//
+// Example for reset
 public class DoWhileExample {    
 public static void main(String[] args) {    
     int i=1;    
