@@ -1,4 +1,4 @@
-//Example to show commits
+//Example for unstaging
 //Example for stash
 //Lets cover this topic
 public class PrimeExample{    
