@@ -1,0 +1,1626 @@
+DTYPE,code,displayValue,productCd,countryCd
+CountryLookupValue,A1,Abattoir Worker,,IE
+CountryLookupValue,A2,Accommodation Officer,,IE
+CountryLookupValue,A3,Account Executive,,IE
+CountryLookupValue,A4,Account Manager,,IE
+CountryLookupValue,A5,Accountant,,IE
+CountryLookupValue,A6,Accounts Assistant,,IE
+CountryLookupValue,A7,Accounts Clerk,,IE
+CountryLookupValue,A8,Accounts Manager,,IE
+CountryLookupValue,A9,Accounts Staff,,IE
+CountryLookupValue,A10,Acoustic Engineer,,IE
+CountryLookupValue,A11,Actor,,IE
+CountryLookupValue,A12,Actress,,IE
+CountryLookupValue,A13,Actuary,,IE
+CountryLookupValue,A14,Acupuncturist,,IE
+CountryLookupValue,A15,Administration Assistant,,IE
+CountryLookupValue,A16,Administration Clerk,,IE
+CountryLookupValue,A17,Administration Manager,,IE
+CountryLookupValue,A18,Administration Staff,,IE
+CountryLookupValue,A19,Administrator,,IE
+CountryLookupValue,A20,Advertising Agent,,IE
+CountryLookupValue,A21,Advertising Assistant,,IE
+CountryLookupValue,A22,Advertising Clerk,,IE
+CountryLookupValue,A23,Advertising Contractor,,IE
+CountryLookupValue,A24,Advertising Executive,,IE
+CountryLookupValue,A25,Advertising Manager,,IE
+CountryLookupValue,A26,Advertising Staff,,IE
+CountryLookupValue,A27,Aerial Erector,,IE
+CountryLookupValue,A28,Aerobic Instructor,,IE
+CountryLookupValue,A29,Aeronautical Engineer,,IE
+CountryLookupValue,A30,Agister,,IE
+CountryLookupValue,A31,Agricultural Consultant,,IE
+CountryLookupValue,A32,Agricultural Contractor,,IE
+CountryLookupValue,A33,Agricultural Engineer,,IE
+CountryLookupValue,A34,Agricultural Merchant,,IE
+CountryLookupValue,A35,Agricultural Worker,,IE
+CountryLookupValue,A36,Agronomist,,IE
+CountryLookupValue,A37,Air Force - Nco/Commissioned Officer,,IE
+CountryLookupValue,A38,Air Force - Other Ranks,,IE
+CountryLookupValue,A39,Air Traffic Controller,,IE
+CountryLookupValue,A40,Aircraft - Cabin Crew,,IE
+CountryLookupValue,A41,Aircraft - Flight Deck Crew,,IE
+CountryLookupValue,A42,Aircraft Buyer,,IE
+CountryLookupValue,A43,Aircraft Designer,,IE
+CountryLookupValue,A44,Aircraft Engineer,,IE
+CountryLookupValue,A45,Aircraft Maintenance Engineer,,IE
+CountryLookupValue,A46,Aircraft Surface Finisher,,IE
+CountryLookupValue,A47,Airline Check-In Staff,,IE
+CountryLookupValue,A48,Airline Employee - Airport,,IE
+CountryLookupValue,A49,Airline Employee - Non-Airport,,IE
+CountryLookupValue,A50,Airline Industry Employee,,IE
+CountryLookupValue,A51,Airman,,IE
+CountryLookupValue,A52,Airport Controller,,IE
+CountryLookupValue,A53,Airport Maintenance Staff,,IE
+CountryLookupValue,A54,Airport Manager,,IE
+CountryLookupValue,A55,Almoner,,IE
+CountryLookupValue,A56,Ambulance Controller,,IE
+CountryLookupValue,A57,Ambulance Crew,,IE
+CountryLookupValue,A58,Ambulance Driver,,IE
+CountryLookupValue,A59,Amusement Arcade Owner,,IE
+CountryLookupValue,A60,Amusement Arcade Worker,,IE
+CountryLookupValue,A61,Anaesthetist,,IE
+CountryLookupValue,A62,Analytical Chemist,,IE
+CountryLookupValue,A63,Animal Breeder,,IE
+CountryLookupValue,A64,Anthropologist,,IE
+CountryLookupValue,A65,Antique Dealer,,IE
+CountryLookupValue,A66,Applications Engineer,,IE
+CountryLookupValue,A67,Applications Programmer,,IE
+CountryLookupValue,A68,Aquarist,,IE
+CountryLookupValue,A69,Arbitrator,,IE
+CountryLookupValue,A70,Arborist,,IE
+CountryLookupValue,A71,Archaeologist,,IE
+CountryLookupValue,A72,Architect,,IE
+CountryLookupValue,A73,Architects Technician,,IE
+CountryLookupValue,A74,Architectural Surveyor,,IE
+CountryLookupValue,A75,Archivist,,IE
+CountryLookupValue,A76,Area Manager,,IE
+CountryLookupValue,A77,Armourer,,IE
+CountryLookupValue,A78,Army - NCO/Commissioned Officer,,IE
+CountryLookupValue,A79,Army - Other Ranks,,IE
+CountryLookupValue,A80,Aromatherapist,,IE
+CountryLookupValue,A81,Art Critic,,IE
+CountryLookupValue,A82,Art Dealer,,IE
+CountryLookupValue,A83,Art Historian,,IE
+CountryLookupValue,A84,Art Restorer,,IE
+CountryLookupValue,A85,Artexer,,IE
+CountryLookupValue,A86,Articled Clerk,,IE
+CountryLookupValue,A87,Artificial Limb Fitter,,IE
+CountryLookupValue,A88,Artist,,IE
+CountryLookupValue,A89,Asbestos Remover,,IE
+CountryLookupValue,A90,Asphalter,,IE
+CountryLookupValue,A91,Assembly Worker,,IE
+CountryLookupValue,A92,Assessor,,IE
+CountryLookupValue,A93,Assistant Accounts Manager,,IE
+CountryLookupValue,A94,Assistant Caretaker,,IE
+CountryLookupValue,A95,Assistant Cook,,IE
+CountryLookupValue,A96,Assistant Manager,,IE
+CountryLookupValue,A97,Assistant Nurse,,IE
+CountryLookupValue,A98,Assistant Teacher,,IE
+CountryLookupValue,A99,Astrologer,,IE
+CountryLookupValue,A100,Astronomer,,IE
+CountryLookupValue,A101,Au Pair,,IE
+CountryLookupValue,A102,Auction Worker,,IE
+CountryLookupValue,A103,Auctioneer,,IE
+CountryLookupValue,A104,Audiologist,,IE
+CountryLookupValue,A105,Audit Clerk,,IE
+CountryLookupValue,A106,Audit Manager,,IE
+CountryLookupValue,A107,Auditor,,IE
+CountryLookupValue,A108,Author,,IE
+CountryLookupValue,A109,Auto Electrician,,IE
+CountryLookupValue,A110,Auxiliary Nurse,,IE
+CountryLookupValue,B1,Bacon Curer,,IE
+CountryLookupValue,B2,Baggage Handler,,IE
+CountryLookupValue,B3,Bailiff,,IE
+CountryLookupValue,B4,Baker,,IE
+CountryLookupValue,B5,Bakery Assistant,,IE
+CountryLookupValue,B6,Bakery Manager,,IE
+CountryLookupValue,B7,Bakery Operator,,IE
+CountryLookupValue,B8,Balloonist,,IE
+CountryLookupValue,B9,Bank Clerk,,IE
+CountryLookupValue,B10,Bank Manager,,IE
+CountryLookupValue,B11,Bank Messenger,,IE
+CountryLookupValue,B12,Bank Note Checker,,IE
+CountryLookupValue,B13,Bank Personnel,,IE
+CountryLookupValue,B14,Bank Staff,,IE
+CountryLookupValue,B15,Baptist Minister,,IE
+CountryLookupValue,B16,Bar Manager,,IE
+CountryLookupValue,B17,Bar Staff,,IE
+CountryLookupValue,B18,Bar Steward,,IE
+CountryLookupValue,B19,Barber,,IE
+CountryLookupValue,B20,Barmaid,,IE
+CountryLookupValue,B21,Barman,,IE
+CountryLookupValue,B22,Barrister,,IE
+CountryLookupValue,B23,Beautician,,IE
+CountryLookupValue,B24,Betting Shop Employee,,IE
+CountryLookupValue,B25,Betting Shop Owner,,IE
+CountryLookupValue,B26,Bill Poster,,IE
+CountryLookupValue,B27,Bingo Caller,,IE
+CountryLookupValue,B28,Bingo Hall Staff,,IE
+CountryLookupValue,B29,Biochemist,,IE
+CountryLookupValue,B30,Biologist,,IE
+CountryLookupValue,B31,Blacksmith,,IE
+CountryLookupValue,B32,Blind Assembler,,IE
+CountryLookupValue,B33,Blind Fitter,,IE
+CountryLookupValue,B34,Blinds Installer,,IE
+CountryLookupValue,B35,Boat Builder,,IE
+CountryLookupValue,B36,Body Fitter,,IE
+CountryLookupValue,B37,Bodyguard,,IE
+CountryLookupValue,B38,Bodyshop Manager,,IE
+CountryLookupValue,B39,Boiler Maker,,IE
+CountryLookupValue,B40,Boiler Man,,IE
+CountryLookupValue,B41,Book Binder,,IE
+CountryLookupValue,B42,Book Seller,,IE
+CountryLookupValue,B43,Booking Agent,,IE
+CountryLookupValue,B44,Booking Clerk,,IE
+CountryLookupValue,B45,Booking Office Clerk,,IE
+CountryLookupValue,B46,Book-Keeper,,IE
+CountryLookupValue,B47,Bookmaker,,IE
+CountryLookupValue,B48,Botanist,,IE
+CountryLookupValue,B49,Box Maker,,IE
+CountryLookupValue,B50,Box Office Clerk,,IE
+CountryLookupValue,B51,Branch Manager,,IE
+CountryLookupValue,B52,Breeder,,IE
+CountryLookupValue,B53,Brewer,,IE
+CountryLookupValue,B54,Brewery Manager,,IE
+CountryLookupValue,B55,Brewery Worker,,IE
+CountryLookupValue,B56,Bricklayer,,IE
+CountryLookupValue,B57,Broadcaster,,IE
+CountryLookupValue,B58,Broadcasting Engineer,,IE
+CountryLookupValue,B59,Builder,,IE
+CountryLookupValue,B60,Builders Labourer,,IE
+CountryLookupValue,B61,Builders Merchant,,IE
+CountryLookupValue,B62,Building Advisor,,IE
+CountryLookupValue,B63,Building Contractor,,IE
+CountryLookupValue,B64,Building Control Officer,,IE
+CountryLookupValue,B65,Building Engineer,,IE
+CountryLookupValue,B66,Building Estimator,,IE
+CountryLookupValue,B67,Building Foreman,,IE
+CountryLookupValue,B68,Building Inspector,,IE
+CountryLookupValue,B69,Building Manager,,IE
+CountryLookupValue,B70,Building Site Inspector,,IE
+CountryLookupValue,B71,Building Society Agent,,IE
+CountryLookupValue,B72,Building Society Clerk,,IE
+CountryLookupValue,B73,Building Society Staff,,IE
+CountryLookupValue,B74,Building Surveyor,,IE
+CountryLookupValue,B75,Bursar,,IE
+CountryLookupValue,B76,Bus Conductor,,IE
+CountryLookupValue,B77,Bus Driver,,IE
+CountryLookupValue,B78,Bus Mechanic,,IE
+CountryLookupValue,B79,Bus Valeter,,IE
+CountryLookupValue,B80,Business Analyst,,IE
+CountryLookupValue,B81,Business Consultant,,IE
+CountryLookupValue,B82,Business Proprietor,,IE
+CountryLookupValue,B83,Butcher,,IE
+CountryLookupValue,B84,Butchery Manager,,IE
+CountryLookupValue,B85,Butler,,IE
+CountryLookupValue,B86,Buyer,,IE
+CountryLookupValue,C1,Cabinet Maker,,IE
+CountryLookupValue,C2,Cable Contractor,,IE
+CountryLookupValue,C3,Cable Jointer,,IE
+CountryLookupValue,C4,Cable TV Installer,,IE
+CountryLookupValue,C5,Cafe Owner,,IE
+CountryLookupValue,C6,Cafe Staff,,IE
+CountryLookupValue,C7,Calibration Manager,,IE
+CountryLookupValue,C8,Call Centre Manager,,IE
+CountryLookupValue,C9,Call Centre Staff,,IE
+CountryLookupValue,C10,Calligrapher,,IE
+CountryLookupValue,C11,Camera Repairer,,IE
+CountryLookupValue,C12,Cameraman,,IE
+CountryLookupValue,C13,Canal Boat Broker,,IE
+CountryLookupValue,C14,Car Body Repairer,,IE
+CountryLookupValue,C15,Car Builder,,IE
+CountryLookupValue,C16,Car Dealer,,IE
+CountryLookupValue,C17,Car Delivery Driver,,IE
+CountryLookupValue,C18,Car Park Attendant,,IE
+CountryLookupValue,C19,Car Salesman,,IE
+CountryLookupValue,C20,Car Valet,,IE
+CountryLookupValue,C21,Car Wash Attendant,,IE
+CountryLookupValue,C22,Care Assistant,,IE
+CountryLookupValue,C23,Care Manager,,IE
+CountryLookupValue,C24,Careers Advisor,,IE
+CountryLookupValue,C25,Careers Officer,,IE
+CountryLookupValue,C26,Carer - Non Professional,,IE
+CountryLookupValue,C27,Carer - Professional,,IE
+CountryLookupValue,C28,Caretaker,,IE
+CountryLookupValue,C29,Cargo Operator,,IE
+CountryLookupValue,C30,Carpenter,,IE
+CountryLookupValue,C31,Carpenters Assistant,,IE
+CountryLookupValue,C32,Carpet Cleaner,,IE
+CountryLookupValue,C33,Carpet Fitter,,IE
+CountryLookupValue,C34,Carpet Retailer,,IE
+CountryLookupValue,C35,Carpetfitter,,IE
+CountryLookupValue,C36,Cartographer,,IE
+CountryLookupValue,C37,Cartoonist,,IE
+CountryLookupValue,C38,Cash Point Fitter,,IE
+CountryLookupValue,C39,Cashier,,IE
+CountryLookupValue,C40,Casual Worker,,IE
+CountryLookupValue,C41,Caterer,,IE
+CountryLookupValue,C42,Catering Consultant,,IE
+CountryLookupValue,C43,Catering Manager,,IE
+CountryLookupValue,C44,Catering Staff,,IE
+CountryLookupValue,C45,Cattery Employee,,IE
+CountryLookupValue,C46,Cattery Owner,,IE
+CountryLookupValue,C47,Caulker,,IE
+CountryLookupValue,C48,Ceiling Contractor,,IE
+CountryLookupValue,C49,Ceiling Fixer,,IE
+CountryLookupValue,C50,Cellarman,,IE
+CountryLookupValue,C51,Centre Lathe Operator,,IE
+CountryLookupValue,C52,Certified Accountant,,IE
+CountryLookupValue,C53,Chambermaid,,IE
+CountryLookupValue,C54,Chandler,,IE
+CountryLookupValue,C55,Chaplain,,IE
+CountryLookupValue,C56,Charge Hand,,IE
+CountryLookupValue,C57,Charity Worker,,IE
+CountryLookupValue,C58,Chartered Accountant,,IE
+CountryLookupValue,C59,Chartered Engineer,,IE
+CountryLookupValue,C60,Chartered Surveyor,,IE
+CountryLookupValue,C61,Chartered Valuer,,IE
+CountryLookupValue,C62,Charterer,,IE
+CountryLookupValue,C63,Chauffeur,,IE
+CountryLookupValue,C64,Check-Out Assistant,,IE
+CountryLookupValue,C65,Chef,,IE
+CountryLookupValue,C66,Chemical Engineer,,IE
+CountryLookupValue,C67,Chemist,,IE
+CountryLookupValue,C68,Chicken Chaser,,IE
+CountryLookupValue,C69,Chicken Sexer,,IE
+CountryLookupValue,C70,Chief Cashier,,IE
+CountryLookupValue,C71,Chief Chemist,,IE
+CountryLookupValue,C72,Chief Executive,,IE
+CountryLookupValue,C73,Child Minder,,IE
+CountryLookupValue,C74,Childminder,,IE
+CountryLookupValue,C75,Childrens Entertainer,,IE
+CountryLookupValue,C76,Chimney Sweep,,IE
+CountryLookupValue,C77,China Restorer,,IE
+CountryLookupValue,C78,Chiropodist,,IE
+CountryLookupValue,C79,Chiropractor,,IE
+CountryLookupValue,C80,Choreographer,,IE
+CountryLookupValue,C81,Church Officer,,IE
+CountryLookupValue,C82,Church Warden,,IE
+CountryLookupValue,C83,Cinema Assistant,,IE
+CountryLookupValue,C84,Cinema Manager,,IE
+CountryLookupValue,C85,Circus Proprietor,,IE
+CountryLookupValue,C86,Circus Worker,,IE
+CountryLookupValue,C87,Civil Engineer,,IE
+CountryLookupValue,C88,Civil Servant,,IE
+CountryLookupValue,C89,Claims Adjustor,,IE
+CountryLookupValue,C90,Claims Assessor,,IE
+CountryLookupValue,C91,Claims Manager,,IE
+CountryLookupValue,C92,Clairvoyant,,IE
+CountryLookupValue,C93,Classical Musician,,IE
+CountryLookupValue,C94,Classroom Aide,,IE
+CountryLookupValue,C95,Clay Pigeon Instructor,,IE
+CountryLookupValue,C96,Cleaner,,IE
+CountryLookupValue,C97,Cleaning Contractor,,IE
+CountryLookupValue,C98,Cleaning Supervisor,,IE
+CountryLookupValue,C99,Clergy,,IE
+CountryLookupValue,C100,Cleric,,IE
+CountryLookupValue,C101,Clerical Assistant,,IE
+CountryLookupValue,C102,Clerical Officer,,IE
+CountryLookupValue,C103,Clerk,,IE
+CountryLookupValue,C104,Clerk Of Works,,IE
+CountryLookupValue,C105,Clinical Psychologist,,IE
+CountryLookupValue,C106,Clock Maker,,IE
+CountryLookupValue,C107,Club Steward,,IE
+CountryLookupValue,C108,Coach,,IE
+CountryLookupValue,C109,Coach Builder,,IE
+CountryLookupValue,C110,Coach Driver,,IE
+CountryLookupValue,C111,Coach Sprayer,,IE
+CountryLookupValue,C112,Coal Merchant,,IE
+CountryLookupValue,C113,Coastguard,,IE
+CountryLookupValue,C114,Cobbler,,IE
+CountryLookupValue,C115,Coffee Merchant,,IE
+CountryLookupValue,C116,Coin Dealer,,IE
+CountryLookupValue,C117,Collector - Door To Door,,IE
+CountryLookupValue,C118,College Dean,,IE
+CountryLookupValue,C119,College Lecturer,,IE
+CountryLookupValue,C120,College Principal,,IE
+CountryLookupValue,C121,Commercial Artist,,IE
+CountryLookupValue,C122,Commercial Manager,,IE
+CountryLookupValue,C123,Commercial Traveller,,IE
+CountryLookupValue,C124,Commission Agent,,IE
+CountryLookupValue,C125,Commissionaire,,IE
+CountryLookupValue,C126,Commissioned Officer,,IE
+CountryLookupValue,C127,Commissioning Engineer,,IE
+CountryLookupValue,C128,Commodity Broker,,IE
+CountryLookupValue,C129,Commodity Dealer,,IE
+CountryLookupValue,C130,Communications Officer,,IE
+CountryLookupValue,C131,Communications Supervisor,,IE
+CountryLookupValue,C132,Community Craft Instructor,,IE
+CountryLookupValue,C133,Community Nurse,,IE
+CountryLookupValue,C134,Community Worker,,IE
+CountryLookupValue,C135,Company Chairman,,IE
+CountryLookupValue,C136,Company Director,,IE
+CountryLookupValue,C137,Company Search Agent,,IE
+CountryLookupValue,C138,Company Secretary,,IE
+CountryLookupValue,C139,Complementary Therapist,,IE
+CountryLookupValue,C140,Composer,,IE
+CountryLookupValue,C141,Compositor,,IE
+CountryLookupValue,C142,Computer Analyst,,IE
+CountryLookupValue,C143,Computer Consultant,,IE
+CountryLookupValue,C144,Computer Engineer,,IE
+CountryLookupValue,C145,Computer Manager,,IE
+CountryLookupValue,C146,Computer Operator,,IE
+CountryLookupValue,C147,Computer Programmer,,IE
+CountryLookupValue,C148,Computer Technician,,IE
+CountryLookupValue,C149,Confectioner,,IE
+CountryLookupValue,C150,Conference Manager,,IE
+CountryLookupValue,C151,Conference Organiser,,IE
+CountryLookupValue,C152,Conservationist,,IE
+CountryLookupValue,C153,Conservator,,IE
+CountryLookupValue,C154,Construction Engineer,,IE
+CountryLookupValue,C155,Construction Worker,,IE
+CountryLookupValue,C156,Consultant,,IE
+CountryLookupValue,C157,Consultant Engineer,,IE
+CountryLookupValue,C158,Consumer Scientist,,IE
+CountryLookupValue,C159,Contract Cleaner,,IE
+CountryLookupValue,C160,Contract Furnisher,,IE
+CountryLookupValue,C161,Contract Manager,,IE
+CountryLookupValue,C162,Contractor,,IE
+CountryLookupValue,C163,Contracts Supervisor,,IE
+CountryLookupValue,C164,Conveyancer,,IE
+CountryLookupValue,C165,Cook,,IE
+CountryLookupValue,C166,Cooper,,IE
+CountryLookupValue,C167,Copywriter,,IE
+CountryLookupValue,C168,Coroner,,IE
+CountryLookupValue,C169,Corrosion Consultant,,IE
+CountryLookupValue,C170,Costume Designer,,IE
+CountryLookupValue,C171,Costume Jeweller,,IE
+CountryLookupValue,C172,Costumier,,IE
+CountryLookupValue,C173,Council Worker,,IE
+CountryLookupValue,C174,Counsellor,,IE
+CountryLookupValue,C175,Countryside Ranger,,IE
+CountryLookupValue,C176,County Councillor,,IE
+CountryLookupValue,C177,Courier,,IE
+CountryLookupValue,C178,Court Officer,,IE
+CountryLookupValue,C179,Craft Dealer,,IE
+CountryLookupValue,C180,Craftsman,,IE
+CountryLookupValue,C181,Craftswoman,,IE
+CountryLookupValue,C182,Crane Driver,,IE
+CountryLookupValue,C183,Crane Erector,,IE
+CountryLookupValue,C184,Crane Operator,,IE
+CountryLookupValue,C185,Creche Worker,,IE
+CountryLookupValue,C186,Credit Broker,,IE
+CountryLookupValue,C187,Credit Control,,IE
+CountryLookupValue,C188,Credit Controller,,IE
+CountryLookupValue,C189,Credit Draper,,IE
+CountryLookupValue,C190,Credit Manager,,IE
+CountryLookupValue,C191,Crematorium Attendant,,IE
+CountryLookupValue,C192,Crime Examiner,,IE
+CountryLookupValue,C193,Crofter,,IE
+CountryLookupValue,C194,Croupier,,IE
+CountryLookupValue,C195,Crown Prosecutor,,IE
+CountryLookupValue,C196,Curator,,IE
+CountryLookupValue,C197,Currency Trader,,IE
+CountryLookupValue,C198,Curtain Maker,,IE
+CountryLookupValue,C199,Customer Advisor,,IE
+CountryLookupValue,C200,Customer Liaison Officer,,IE
+CountryLookupValue,C201,Customs and Excise Officer,,IE
+CountryLookupValue,C202,Cutler,,IE
+CountryLookupValue,C203,Cutter,,IE
+CountryLookupValue,C204,Cycle Repairer,,IE
+CountryLookupValue,D1,Dairy Engineer,,IE
+CountryLookupValue,D2,Dairy Worker,,IE
+CountryLookupValue,D3,Dance Teacher,,IE
+CountryLookupValue,D4,Dancer,,IE
+CountryLookupValue,D5,Dark Room Technician,,IE
+CountryLookupValue,D6,Data Administrator,,IE
+CountryLookupValue,D7,Data Co-Ordinator,,IE
+CountryLookupValue,D8,Data Processor,,IE
+CountryLookupValue,D9,Day Care Officer,,IE
+CountryLookupValue,D10,Dealer - General,,IE
+CountryLookupValue,D11,Debt Collector,,IE
+CountryLookupValue,D12,Debt Counsellor,,IE
+CountryLookupValue,D13,Decorator,,IE
+CountryLookupValue,D14,Delivery Courier,,IE
+CountryLookupValue,D15,Delivery Driver,,IE
+CountryLookupValue,D16,Delivery Roundsman,,IE
+CountryLookupValue,D17,Demolition Worker,,IE
+CountryLookupValue,D18,Demonstrator,,IE
+CountryLookupValue,D19,Dendrochronologist,,IE
+CountryLookupValue,D20,Dental Assistant,,IE
+CountryLookupValue,D21,Dental Hygienist,,IE
+CountryLookupValue,D22,Dental Nurse,,IE
+CountryLookupValue,D23,Dental Surgeon,,IE
+CountryLookupValue,D24,Dental Technician,,IE
+CountryLookupValue,D25,Dentist,,IE
+CountryLookupValue,D26,Deputy Head Teacher,,IE
+CountryLookupValue,D27,Deputy Manager,,IE
+CountryLookupValue,D28,Deputy Principal,,IE
+CountryLookupValue,D29,Dermatologist,,IE
+CountryLookupValue,D30,Design Director,,IE
+CountryLookupValue,D31,Design Engineer,,IE
+CountryLookupValue,D32,Design Manager,,IE
+CountryLookupValue,D33,Despatch Driver,,IE
+CountryLookupValue,D34,Despatch Rider,,IE
+CountryLookupValue,D35,Despatch Worker,,IE
+CountryLookupValue,D36,Development Manager,,IE
+CountryLookupValue,D37,Diamond Dealer,,IE
+CountryLookupValue,D38,Diecaster,,IE
+CountryLookupValue,D39,Dietician,,IE
+CountryLookupValue,D40,Dinner Lady,,IE
+CountryLookupValue,D41,Diplomat,,IE
+CountryLookupValue,D42,Disc Jockey,,IE
+CountryLookupValue,D43,Distillery Worker,,IE
+CountryLookupValue,D44,Distribution Manager,,IE
+CountryLookupValue,D45,District Nurse,,IE
+CountryLookupValue,D46,District Valuer,,IE
+CountryLookupValue,D47,Diver,,IE
+CountryLookupValue,D48,Docker,,IE
+CountryLookupValue,D49,Dockyard Worker,,IE
+CountryLookupValue,D50,Doctor,,IE
+CountryLookupValue,D51,Document Controller,,IE
+CountryLookupValue,D52,Dog Beautician,,IE
+CountryLookupValue,D53,Dog Breeder,,IE
+CountryLookupValue,D54,Dog Groomer,,IE
+CountryLookupValue,D55,Dog Trainer,,IE
+CountryLookupValue,D56,Dog Walker,,IE
+CountryLookupValue,D57,Dog Warden,,IE
+CountryLookupValue,D58,Doll Maker,,IE
+CountryLookupValue,D59,Domestic Staff,,IE
+CountryLookupValue,D60,Door Fitter,,IE
+CountryLookupValue,D61,Door To Door Collector,,IE
+CountryLookupValue,D62,Doorman,,IE
+CountryLookupValue,D63,Double Glazing Fitter,,IE
+CountryLookupValue,D64,Double Glazing Salesman,,IE
+CountryLookupValue,D65,Draughtsman,,IE
+CountryLookupValue,D66,Draughtswoman,,IE
+CountryLookupValue,D67,Drayman,,IE
+CountryLookupValue,D68,Dressmaker,,IE
+CountryLookupValue,D69,Drilling Technician,,IE
+CountryLookupValue,D70,Driving Examiner,,IE
+CountryLookupValue,D71,Driving Instructor,,IE
+CountryLookupValue,D72,Driving Instructor (HGV),,IE
+CountryLookupValue,D73,Drug Addiction Counsellor,,IE
+CountryLookupValue,D74,Dry Cleaner,,IE
+CountryLookupValue,D75,Dryliner,,IE
+CountryLookupValue,D76,Dustman,,IE
+CountryLookupValue,D77,Dye Polisher,,IE
+CountryLookupValue,D78,Dyer,,IE
+CountryLookupValue,E1,Ecologist,,IE
+CountryLookupValue,E2,Economist,,IE
+CountryLookupValue,E3,Editor,,IE
+CountryLookupValue,E4,Editorial Consultant,,IE
+CountryLookupValue,E5,Editorial Staff,,IE
+CountryLookupValue,E6,Education Advisor,,IE
+CountryLookupValue,E7,Education Officer,,IE
+CountryLookupValue,E8,Electrical Contractor,,IE
+CountryLookupValue,E9,Electrical Engineer,,IE
+CountryLookupValue,E10,Electrical Fitter,,IE
+CountryLookupValue,E11,Electrician,,IE
+CountryLookupValue,E12,Electrologist,,IE
+CountryLookupValue,E13,Electronic Engineer,,IE
+CountryLookupValue,E14,Electronics Supervisor,,IE
+CountryLookupValue,E15,Electronics Technician,,IE
+CountryLookupValue,E16,Embalmer,,IE
+CountryLookupValue,E17,Embassy Staff,,IE
+CountryLookupValue,E18,Embroiderer,,IE
+CountryLookupValue,E19,Energy Analyst,,IE
+CountryLookupValue,E20,Engineer,,IE
+CountryLookupValue,E21,Engraver,,IE
+CountryLookupValue,E22,Enquiry Agent,,IE
+CountryLookupValue,E23,Entertainer,,IE
+CountryLookupValue,E24,Environmental Chemist,,IE
+CountryLookupValue,E25,Environmental Consultant,,IE
+CountryLookupValue,E26,Environmental Health Officer,,IE
+CountryLookupValue,E27,Equity Agent,,IE
+CountryLookupValue,E28,Ergonomist,,IE
+CountryLookupValue,E29,Estate Agent,,IE
+CountryLookupValue,E30,Estate Manager,,IE
+CountryLookupValue,E31,Estimator,,IE
+CountryLookupValue,E32,Evangelist,,IE
+CountryLookupValue,E33,Events organiser,,IE
+CountryLookupValue,E34,Excursion Manager,,IE
+CountryLookupValue,E35,Exhaust Fitter,,IE
+CountryLookupValue,E36,Exhibition Designer,,IE
+CountryLookupValue,E37,Exhibition organiser,,IE
+CountryLookupValue,E38,Exotic Dancer,,IE
+CountryLookupValue,E39,Expedition Leader,,IE
+CountryLookupValue,E40,Export Consultant,,IE
+CountryLookupValue,E41,Exporter,,IE
+CountryLookupValue,E42,Extrusion Operator,,IE
+CountryLookupValue,F1,Fabricator,,IE
+CountryLookupValue,F2,Factory Canteen Manager,,IE
+CountryLookupValue,F3,Factory Inspector,,IE
+CountryLookupValue,F4,Factory Manager,,IE
+CountryLookupValue,F5,Factory Worker,,IE
+CountryLookupValue,F6,Fairground Worker,,IE
+CountryLookupValue,F7,Falconer,,IE
+CountryLookupValue,F8,Farm Manager,,IE
+CountryLookupValue,F9,Farm Worker,,IE
+CountryLookupValue,F10,Farmer,,IE
+CountryLookupValue,F11,Farrier,,IE
+CountryLookupValue,F12,Fashion Designer,,IE
+CountryLookupValue,F13,Fashion Photographer,,IE
+CountryLookupValue,F14,Fast Food Delivery Driver,,IE
+CountryLookupValue,F15,Fast Food Proprietor,,IE
+CountryLookupValue,F16,Fence Erecter,,IE
+CountryLookupValue,F17,Fibre Glass Moulder,,IE
+CountryLookupValue,F18,Field Officer,,IE
+CountryLookupValue,F19,Figure Painter,,IE
+CountryLookupValue,F20,Film Director,,IE
+CountryLookupValue,F21,Film Producer,,IE
+CountryLookupValue,F22,Film Technician,,IE
+CountryLookupValue,F23,Finance Director,,IE
+CountryLookupValue,F24,Finance Manager,,IE
+CountryLookupValue,F25,Finance Officer,,IE
+CountryLookupValue,F26,Financial Advisor,,IE
+CountryLookupValue,F27,Financial Analyst,,IE
+CountryLookupValue,F28,Financial Consultant,,IE
+CountryLookupValue,F29,Financier,,IE
+CountryLookupValue,F30,Fire Officer,,IE
+CountryLookupValue,F31,Fire Prevention Officer,,IE
+CountryLookupValue,F32,Fire Protection Consultant,,IE
+CountryLookupValue,F33,Firefighter,,IE
+CountryLookupValue,F34,Fireplace Fitter,,IE
+CountryLookupValue,F35,Firewood Merchant,,IE
+CountryLookupValue,F36,First Aid Worker,,IE
+CountryLookupValue,F37,Fish Buyer,,IE
+CountryLookupValue,F38,Fish Filleter,,IE
+CountryLookupValue,F39,Fish Fryer,,IE
+CountryLookupValue,F40,Fish Merchant,,IE
+CountryLookupValue,F41,Fish Worker,,IE
+CountryLookupValue,F42,Fisheries Inspector,,IE
+CountryLookupValue,F43,Fisherman,,IE
+CountryLookupValue,F44,Fishery Manager,,IE
+CountryLookupValue,F45,Fishmonger,,IE
+CountryLookupValue,F46,Fitness Instructor,,IE
+CountryLookupValue,F47,Fitter,,IE
+CountryLookupValue,F48,Fitter - Tyre/Exhaust,,IE
+CountryLookupValue,F49,Flagger,,IE
+CountryLookupValue,F50,Flight Deck Crew,,IE
+CountryLookupValue,F51,Floor Layer,,IE
+CountryLookupValue,F52,Floor Manager,,IE
+CountryLookupValue,F53,Florist,,IE
+CountryLookupValue,F54,Flour Miller,,IE
+CountryLookupValue,F55,Flower Arranger,,IE
+CountryLookupValue,F56,Flying Instructor,,IE
+CountryLookupValue,F57,Foam Convertor,,IE
+CountryLookupValue,F58,Food Processor,,IE
+CountryLookupValue,F59,Footballer,,IE
+CountryLookupValue,F60,Foreman,,IE
+CountryLookupValue,F61,Forensic Scientist,,IE
+CountryLookupValue,F62,Forest Ranger,,IE
+CountryLookupValue,F63,Forester,,IE
+CountryLookupValue,F64,Fork Lift Truck Driver,,IE
+CountryLookupValue,F65,Forwarding Agent,,IE
+CountryLookupValue,F66,Foster Parent,,IE
+CountryLookupValue,F67,Foundry Worker,,IE
+CountryLookupValue,F68,Fraud Investigator,,IE
+CountryLookupValue,F69,French Polisher,,IE
+CountryLookupValue,F70,Fruiterer,,IE
+CountryLookupValue,F71,Fuel Merchant,,IE
+CountryLookupValue,F72,Fund Raiser,,IE
+CountryLookupValue,F73,Funeral Director,,IE
+CountryLookupValue,F74,Funeral Furnisher,,IE
+CountryLookupValue,F75,Furnace Man,,IE
+CountryLookupValue,F76,Furniture Dealer,,IE
+CountryLookupValue,F77,Furniture Manufacturer,,IE
+CountryLookupValue,F78,Furniture Remover,,IE
+CountryLookupValue,F79,Furniture Restorer,,IE
+CountryLookupValue,F80,Furrier,,IE
+CountryLookupValue,G1,Gallery Owner,,IE
+CountryLookupValue,G2,Gambler,,IE
+CountryLookupValue,G3,Gamekeeper,,IE
+CountryLookupValue,G4,Gaming Board Inspector,,IE
+CountryLookupValue,G5,Gaming Club Manager,,IE
+CountryLookupValue,G6,Gaming Club Proprietor,,IE
+CountryLookupValue,G7,Garage Attendant,,IE
+CountryLookupValue,G8,Garage Foreman,,IE
+CountryLookupValue,G9,Garage Manager,,IE
+CountryLookupValue,G10,Garda,,IE
+CountryLookupValue,G11,Garden Designer,,IE
+CountryLookupValue,G12,Gardener,,IE
+CountryLookupValue,G13,Gas Fitter,,IE
+CountryLookupValue,G14,Gas Mechanic,,IE
+CountryLookupValue,G15,Gas Technician,,IE
+CountryLookupValue,G16,Gate Keeper,,IE
+CountryLookupValue,G17,Genealogist,,IE
+CountryLookupValue,G18,General Dealer,,IE
+CountryLookupValue,G19,General Manager,,IE
+CountryLookupValue,G20,General Practitioner,,IE
+CountryLookupValue,G21,Geologist,,IE
+CountryLookupValue,G22,Geophysicist,,IE
+CountryLookupValue,G23,Gilder,,IE
+CountryLookupValue,G24,Glass Worker,,IE
+CountryLookupValue,G25,Glazier,,IE
+CountryLookupValue,G26,Goldsmith,,IE
+CountryLookupValue,G27,Golf Caddy,,IE
+CountryLookupValue,G28,Golf Club Professional,,IE
+CountryLookupValue,G29,Golfer,,IE
+CountryLookupValue,G30,Goods Handler,,IE
+CountryLookupValue,G31,Governor,,IE
+CountryLookupValue,G32,Granite Technician,,IE
+CountryLookupValue,G33,Graphic Designer,,IE
+CountryLookupValue,G34,Graphologist,,IE
+CountryLookupValue,G35,Grave Digger,,IE
+CountryLookupValue,G36,Gravel Merchant,,IE
+CountryLookupValue,G37,Green Keeper,,IE
+CountryLookupValue,G38,Greengrocer,,IE
+CountryLookupValue,G39,Grocer,,IE
+CountryLookupValue,G40,Groom,,IE
+CountryLookupValue,G41,Ground Worker,,IE
+CountryLookupValue,G42,Groundsman,,IE
+CountryLookupValue,G43,Guard,,IE
+CountryLookupValue,G44,Guest House Proprietor,,IE
+CountryLookupValue,G45,Guide,,IE
+CountryLookupValue,G46,Gun Smith,,IE
+CountryLookupValue,G47,Gynaecologist,,IE
+CountryLookupValue,H1,Hairdresser,,IE
+CountryLookupValue,H2,Handyman,,IE
+CountryLookupValue,H3,Harbour Master,,IE
+CountryLookupValue,H4,Hardware Dealer,,IE
+CountryLookupValue,H5,Haulage Contractor,,IE
+CountryLookupValue,H6,Hawker,,IE
+CountryLookupValue,H7,Head Accurist,,IE
+CountryLookupValue,H8,Head Greenkeeper,,IE
+CountryLookupValue,H9,Head Lad,,IE
+CountryLookupValue,H10,Headteacher,,IE
+CountryLookupValue,H11,Health Advisor,,IE
+CountryLookupValue,H12,Health and Safety Consultant,,IE
+CountryLookupValue,H13,Health and Safety Officer,,IE
+CountryLookupValue,H14,Health Care Assistant,,IE
+CountryLookupValue,H15,Health Planner,,IE
+CountryLookupValue,H16,Health Therapist,,IE
+CountryLookupValue,H17,Health Visitor,,IE
+CountryLookupValue,H18,Hearing Therapist,,IE
+CountryLookupValue,H19,Heating And Ventilation Engineer,,IE
+CountryLookupValue,H20,Heating Engineer,,IE
+CountryLookupValue,H21,Heating/Ventilation Engineer,,IE
+CountryLookupValue,H22,Herbalist,,IE
+CountryLookupValue,H23,Hgv Driver,,IE
+CountryLookupValue,H24,Hgv Mechanic,,IE
+CountryLookupValue,H25,Highway Inspector,,IE
+CountryLookupValue,H26,Hire Car Driver,,IE
+CountryLookupValue,H27,Hirer,,IE
+CountryLookupValue,H28,Historian,,IE
+CountryLookupValue,H29,Hod Carrier,,IE
+CountryLookupValue,H30,Holiday Camp Staff - Licensed Premises,,IE
+CountryLookupValue,H31,Holiday Camp Staff - Unlicensed Premises,,IE
+CountryLookupValue,H32,Home Economist,,IE
+CountryLookupValue,H33,Home Help,,IE
+CountryLookupValue,H34,Homecare Manager,,IE
+CountryLookupValue,H35,Homeopath,,IE
+CountryLookupValue,H36,Homeworker,,IE
+CountryLookupValue,H37,Hop Merchant,,IE
+CountryLookupValue,H38,Horse Breeder,,IE
+CountryLookupValue,H39,Horse Dealer,,IE
+CountryLookupValue,H40,Horse Riding Instructor,,IE
+CountryLookupValue,H41,Horse Trader,,IE
+CountryLookupValue,H42,Horse Trainer,,IE
+CountryLookupValue,H43,Horticultural Consultant,,IE
+CountryLookupValue,H44,Horticulturalist,,IE
+CountryLookupValue,H45,Hosiery Mechanic,,IE
+CountryLookupValue,H46,Hosiery Worker,,IE
+CountryLookupValue,H47,Hospital Consultant,,IE
+CountryLookupValue,H48,Hospital Doctor,,IE
+CountryLookupValue,H49,Hospital Manager,,IE
+CountryLookupValue,H50,Hospital orderly,,IE
+CountryLookupValue,H51,Hospital Technician,,IE
+CountryLookupValue,H52,Hospital Warden,,IE
+CountryLookupValue,H53,Hospital Worker,,IE
+CountryLookupValue,H54,Hostess,,IE
+CountryLookupValue,H55,Hot Foil Printer,,IE
+CountryLookupValue,H56,Hotel Consultant,,IE
+CountryLookupValue,H57,Hotel Worker,,IE
+CountryLookupValue,H58,Hotelier,,IE
+CountryLookupValue,H59,House Parent,,IE
+CountryLookupValue,H60,House Sitter,,IE
+CountryLookupValue,H61,Househusband,,IE
+CountryLookupValue,H62,Housekeeper,,IE
+CountryLookupValue,H63,Housewife,,IE
+CountryLookupValue,H64,Housing Assistant,,IE
+CountryLookupValue,H65,Housing Officer,,IE
+CountryLookupValue,H66,Housing Supervisor,,IE
+CountryLookupValue,H67,Human Resources Manager,,IE
+CountryLookupValue,H68,Human Resources Staff,,IE
+CountryLookupValue,H69,Hunt Master,,IE
+CountryLookupValue,H70,Huntsman,,IE
+CountryLookupValue,H71,Hydro Geologist,,IE
+CountryLookupValue,H72,Hygienist,,IE
+CountryLookupValue,H73,Hypnotherapist,,IE
+CountryLookupValue,H74,Hypnotist,,IE
+CountryLookupValue,I1,Ice Cream Vendor,,IE
+CountryLookupValue,I2,Illustrator,,IE
+CountryLookupValue,I3,Immigration Officer,,IE
+CountryLookupValue,I4,Import Consultant,,IE
+CountryLookupValue,I5,Importer,,IE
+CountryLookupValue,I6,Independent Means,,IE
+CountryLookupValue,I7,Induction Moulder,,IE
+CountryLookupValue,I8,Industrial Chemist,,IE
+CountryLookupValue,I9,Industrial Consultant,,IE
+CountryLookupValue,I10,Industrial Designer,,IE
+CountryLookupValue,I11,Injection Moulder,,IE
+CountryLookupValue,I12,Inland Revenue Officer,,IE
+CountryLookupValue,I13,Inspector,,IE
+CountryLookupValue,I14,Instrument Engineer,,IE
+CountryLookupValue,I15,Instrument Maker,,IE
+CountryLookupValue,I16,Instrument Supervisor,,IE
+CountryLookupValue,I17,Instrument Technician,,IE
+CountryLookupValue,I18,Insurance Agent,,IE
+CountryLookupValue,I19,Insurance Assessor,,IE
+CountryLookupValue,I20,Insurance Broker,,IE
+CountryLookupValue,I21,Insurance Consultant,,IE
+CountryLookupValue,I22,Insurance Inspector,,IE
+CountryLookupValue,I23,Insurance Representative,,IE
+CountryLookupValue,I24,Interior Decorator,,IE
+CountryLookupValue,I25,Interior Designer,,IE
+CountryLookupValue,I26,Interpreter,,IE
+CountryLookupValue,I27,Interviewer,,IE
+CountryLookupValue,I28,Inventor,,IE
+CountryLookupValue,I29,Investigator,,IE
+CountryLookupValue,I30,Investment Advisor,,IE
+CountryLookupValue,I31,Investment Banker,,IE
+CountryLookupValue,I32,Investment Manager,,IE
+CountryLookupValue,I33,Ironmonger,,IE
+CountryLookupValue,I34,It Consultant,,IE
+CountryLookupValue,I35,It Manager,,IE
+CountryLookupValue,I36,It Trainer,,IE
+CountryLookupValue,J1,Janitor,,IE
+CountryLookupValue,J2,Jazz Composer,,IE
+CountryLookupValue,J3,Jeweller,,IE
+CountryLookupValue,J4,Jewellery Consultant,,IE
+CountryLookupValue,J5,Jockey,,IE
+CountryLookupValue,J6,Joiner,,IE
+CountryLookupValue,J7,Joinery Consultant,,IE
+CountryLookupValue,J8,Journalist,,IE
+CountryLookupValue,J9,Journalistic Agent,,IE
+CountryLookupValue,J10,Judge,,IE
+CountryLookupValue,J11,Junk Shop Proprietor,,IE
+CountryLookupValue,J12,Justice Of The Peace,,IE
+CountryLookupValue,K1,Keep Fit Instructor,,IE
+CountryLookupValue,K2,Kennel Hand,,IE
+CountryLookupValue,K3,Kennel Maid,,IE
+CountryLookupValue,K4,Kissagram Person,,IE
+CountryLookupValue,K5,Kitchen Worker,,IE
+CountryLookupValue,K6,Knitter,,IE
+CountryLookupValue,L1,Labelling Operator,,IE
+CountryLookupValue,L2,Laboratory Analyst,,IE
+CountryLookupValue,L3,Laboratory Assistant,,IE
+CountryLookupValue,L4,Laboratory Attendant,,IE
+CountryLookupValue,L5,Laboratory Manager,,IE
+CountryLookupValue,L6,Laboratory Operative,,IE
+CountryLookupValue,L7,Laboratory Supervisor,,IE
+CountryLookupValue,L8,Laboratory Technician,,IE
+CountryLookupValue,L9,Labourer,,IE
+CountryLookupValue,L10,Laminator,,IE
+CountryLookupValue,L11,Lampshade Maker,,IE
+CountryLookupValue,L12,Land Agent,,IE
+CountryLookupValue,L13,Land Surveyor,,IE
+CountryLookupValue,L14,Landlady,,IE
+CountryLookupValue,L15,Landlord,,IE
+CountryLookupValue,L16,Landowner,,IE
+CountryLookupValue,L17,Landscape Architect,,IE
+CountryLookupValue,L18,Landscape Gardener,,IE
+CountryLookupValue,L19,Landworker,,IE
+CountryLookupValue,L20,Lathe Operator,,IE
+CountryLookupValue,L21,Laundry Worker,,IE
+CountryLookupValue,L22,Lavatory Attendant,,IE
+CountryLookupValue,L23,Law Clerk,,IE
+CountryLookupValue,L24,Lawn Mower Repairer,,IE
+CountryLookupValue,L25,Lawyer,,IE
+CountryLookupValue,L26,Leaflet Distributor,,IE
+CountryLookupValue,L27,Leather Worker,,IE
+CountryLookupValue,L28,Lecturer,,IE
+CountryLookupValue,L29,Ledger Clerk,,IE
+CountryLookupValue,L30,Legal Advisor,,IE
+CountryLookupValue,L31,Legal Assistant,,IE
+CountryLookupValue,L32,Legal Executive,,IE
+CountryLookupValue,L33,Legal Secretary,,IE
+CountryLookupValue,L34,Leisure Centre Attendant,,IE
+CountryLookupValue,L35,Leisure Centre Manager,,IE
+CountryLookupValue,L36,Lens Grinder and Polisher,,IE
+CountryLookupValue,L37,Letting Agent,,IE
+CountryLookupValue,L38,Liaison Officer,,IE
+CountryLookupValue,L39,Librarian,,IE
+CountryLookupValue,L40,Library Manager,,IE
+CountryLookupValue,L41,Licensee,,IE
+CountryLookupValue,L42,Licensing Consultant,,IE
+CountryLookupValue,L43,Lifeguard,,IE
+CountryLookupValue,L44,Lift Attendant,,IE
+CountryLookupValue,L45,Lift Engineer,,IE
+CountryLookupValue,L46,Lighterman,,IE
+CountryLookupValue,L47,Lighthouse Keeper,,IE
+CountryLookupValue,L48,Lighting Designer,,IE
+CountryLookupValue,L49,Lighting Technician,,IE
+CountryLookupValue,L50,Lime Kiln Attendant,,IE
+CountryLookupValue,L51,Line Manager,,IE
+CountryLookupValue,L52,Line Worker,,IE
+CountryLookupValue,L53,Linguist,,IE
+CountryLookupValue,L54,Literary Agent,,IE
+CountryLookupValue,L55,Literary Editor,,IE
+CountryLookupValue,L56,Lithographer,,IE
+CountryLookupValue,L57,Litigation Manager,,IE
+CountryLookupValue,L58,Loader,,IE
+CountryLookupValue,L59,Loans Manager,,IE
+CountryLookupValue,L60,Local Government Officer,,IE
+CountryLookupValue,L61,Lock Keeper,,IE
+CountryLookupValue,L62,Locksmith,,IE
+CountryLookupValue,L63,Locum Pharmacist,,IE
+CountryLookupValue,L64,Log Merchant,,IE
+CountryLookupValue,L65,Lorry Driver,,IE
+CountryLookupValue,L66,Loss Adjustor,,IE
+CountryLookupValue,L67,Loss Assessor,,IE
+CountryLookupValue,L68,Lumberjack,,IE
+CountryLookupValue,M1,Machine Fitters Mate,,IE
+CountryLookupValue,M2,Machine Minder,,IE
+CountryLookupValue,M3,Machine Operator,,IE
+CountryLookupValue,M4,Machine Setter,,IE
+CountryLookupValue,M5,Machine Technician,,IE
+CountryLookupValue,M6,Machine Tool Engineer,,IE
+CountryLookupValue,M7,Machine Tool Fitter,,IE
+CountryLookupValue,M8,Machinist,,IE
+CountryLookupValue,M9,Magician,,IE
+CountryLookupValue,M10,Magistrate,,IE
+CountryLookupValue,M11,Magistrates Clerk,,IE
+CountryLookupValue,M12,Maid,,IE
+CountryLookupValue,M13,Maintenance Engineer,,IE
+CountryLookupValue,M14,Maintenance Fitter,,IE
+CountryLookupValue,M15,Maintenance Man,,IE
+CountryLookupValue,M16,Maintenance Manager,,IE
+CountryLookupValue,M17,Maintenance Staff,,IE
+CountryLookupValue,M18,Make Up Artist,,IE
+CountryLookupValue,M19,Make Up Supervisor,,IE
+CountryLookupValue,M20,Management Consultant,,IE
+CountryLookupValue,M21,Management Trainee,,IE
+CountryLookupValue,M22,Manager,,IE
+CountryLookupValue,M23,Managing Director,,IE
+CountryLookupValue,M24,Manicurist,,IE
+CountryLookupValue,M25,Manufacturing Agent,,IE
+CountryLookupValue,M26,Manufacturing Technician,,IE
+CountryLookupValue,M27,Map Mounter,,IE
+CountryLookupValue,M28,Marble Finisher,,IE
+CountryLookupValue,M29,Marble Mason,,IE
+CountryLookupValue,M30,Marine Broker,,IE
+CountryLookupValue,M31,Marine Consultant,,IE
+CountryLookupValue,M32,Marine Electrician,,IE
+CountryLookupValue,M33,Marine Engineer,,IE
+CountryLookupValue,M34,Marine Geologist,,IE
+CountryLookupValue,M35,Marine Pilot,,IE
+CountryLookupValue,M36,Marine Surveyor,,IE
+CountryLookupValue,M37,Market Gardener,,IE
+CountryLookupValue,M38,Market Research Assistant,,IE
+CountryLookupValue,M39,Market Researcher,,IE
+CountryLookupValue,M40,Market Trader,,IE
+CountryLookupValue,M41,Marketing Agent,,IE
+CountryLookupValue,M42,Marketing Assistant,,IE
+CountryLookupValue,M43,Marketing Consultant,,IE
+CountryLookupValue,M44,Marketing Co-Ordinator,,IE
+CountryLookupValue,M45,Marketing Director,,IE
+CountryLookupValue,M46,Marketing Executive,,IE
+CountryLookupValue,M47,Marketing Manager,,IE
+CountryLookupValue,M48,Marquee Erector,,IE
+CountryLookupValue,M49,Martial Arts Instructor,,IE
+CountryLookupValue,M50,Massage Therapist,,IE
+CountryLookupValue,M51,Masseur,,IE
+CountryLookupValue,M52,Masseuse,,IE
+CountryLookupValue,M53,Master Mariner,,IE
+CountryLookupValue,M54,Master of Ceremonies,,IE
+CountryLookupValue,M55,Master Of Foxhounds,,IE
+CountryLookupValue,M56,Materials Controller,,IE
+CountryLookupValue,M57,Materials Manager,,IE
+CountryLookupValue,M58,Mathematician,,IE
+CountryLookupValue,M59,Matron,,IE
+CountryLookupValue,M60,Mattress Maker,,IE
+CountryLookupValue,M61,Mature Student,,IE
+CountryLookupValue,M62,Meat Inspector,,IE
+CountryLookupValue,M63,Meat Wholesaler,,IE
+CountryLookupValue,M64,Mechanic,,IE
+CountryLookupValue,M65,Mechanical Engineer,,IE
+CountryLookupValue,M66,Mechanical Technician,,IE
+CountryLookupValue,M67,Medal Dealer,,IE
+CountryLookupValue,M68,Medical Advisor,,IE
+CountryLookupValue,M69,Medical Assistant,,IE
+CountryLookupValue,M70,Medical Consultant,,IE
+CountryLookupValue,M71,Medical Officer,,IE
+CountryLookupValue,M72,Medical Physicist,,IE
+CountryLookupValue,M73,Medical Practitioner,,IE
+CountryLookupValue,M74,Medical Researcher,,IE
+CountryLookupValue,M75,Medical Secretary,,IE
+CountryLookupValue,M76,Medical Student,,IE
+CountryLookupValue,M77,Medical Supplier,,IE
+CountryLookupValue,M78,Medical Technician,,IE
+CountryLookupValue,M79,Member Of Parliament,,IE
+CountryLookupValue,M80,Merchandiser,,IE
+CountryLookupValue,M81,Merchant Banker,,IE
+CountryLookupValue,M82,Merchant Seaman,,IE
+CountryLookupValue,M83,Messenger,,IE
+CountryLookupValue,M84,Metal Dealer,,IE
+CountryLookupValue,M85,Metal Engineer,,IE
+CountryLookupValue,M86,Metal Polisher,,IE
+CountryLookupValue,M87,Metal Worker,,IE
+CountryLookupValue,M88,Metallurgist,,IE
+CountryLookupValue,M89,Meteorologist,,IE
+CountryLookupValue,M90,Meter Reader,,IE
+CountryLookupValue,M91,Microbiologist,,IE
+CountryLookupValue,M92,Microfilm Operator,,IE
+CountryLookupValue,M93,Midwife,,IE
+CountryLookupValue,M94,Milklady,,IE
+CountryLookupValue,M95,Milkman,,IE
+CountryLookupValue,M96,Mill Operator,,IE
+CountryLookupValue,M97,Mill Worker,,IE
+CountryLookupValue,M98,Miller,,IE
+CountryLookupValue,M99,Milliner,,IE
+CountryLookupValue,M100,Millwright,,IE
+CountryLookupValue,M101,Miner,,IE
+CountryLookupValue,M102,Mineralologist,,IE
+CountryLookupValue,M103,Minibus Driver,,IE
+CountryLookupValue,M104,Minicab Driver,,IE
+CountryLookupValue,M105,Mining Consultant,,IE
+CountryLookupValue,M106,Mining Engineer,,IE
+CountryLookupValue,M107,Minister Of Religion,,IE
+CountryLookupValue,M108,Missionary,,IE
+CountryLookupValue,M109,Mobile Caterer,,IE
+CountryLookupValue,M110,Mobile Disc Jockey,,IE
+CountryLookupValue,M111,Mobile Disco Owner,,IE
+CountryLookupValue,M112,Mobile Hairdresser,,IE
+CountryLookupValue,M113,Mobile Motor Mechanic,,IE
+CountryLookupValue,M114,Model,,IE
+CountryLookupValue,M115,Model Maker,,IE
+CountryLookupValue,M116,Money Broker,,IE
+CountryLookupValue,M117,Money Dealer,,IE
+CountryLookupValue,M118,Moneylender,,IE
+CountryLookupValue,M119,Monk,,IE
+CountryLookupValue,M120,Monumental Sculptor,,IE
+CountryLookupValue,M121,Mooring Contractor,,IE
+CountryLookupValue,M122,Mortgage Broker,,IE
+CountryLookupValue,M123,Mortgage Consultant,,IE
+CountryLookupValue,M124,Mortician,,IE
+CountryLookupValue,M125,Motor Dealer,,IE
+CountryLookupValue,M126,Motor Engineer,,IE
+CountryLookupValue,M127,Motor Fitter,,IE
+CountryLookupValue,M128,Motor Mechanic,,IE
+CountryLookupValue,M129,Motor Racing organiser,,IE
+CountryLookupValue,M130,Motor Trader,,IE
+CountryLookupValue,M131,Museum Assistant,,IE
+CountryLookupValue,M132,Museum Attendant,,IE
+CountryLookupValue,M133,Museum Consultant,,IE
+CountryLookupValue,M134,Museum Technician,,IE
+CountryLookupValue,M135,Music Teacher,,IE
+CountryLookupValue,M136,Music Therapist,,IE
+CountryLookupValue,M137,Music Wholesaler,,IE
+CountryLookupValue,M138,Musician,,IE
+CountryLookupValue,N1,Nanny,,IE
+CountryLookupValue,N2,Naturopath,,IE
+CountryLookupValue,N3,Navigator,,IE
+CountryLookupValue,N4,Negotiator,,IE
+CountryLookupValue,N5,Neurologist,,IE
+CountryLookupValue,N6,Newsagent,,IE
+CountryLookupValue,N7,Night Porter,,IE
+CountryLookupValue,N8,Night Watchman,,IE
+CountryLookupValue,N9,Non Commissioned Officer,,IE
+CountryLookupValue,N10,Not In Employment,,IE
+CountryLookupValue,N11,Notary Public,,IE
+CountryLookupValue,N12,Nuclear Scientist,,IE
+CountryLookupValue,N13,Nun,,IE
+CountryLookupValue,N14,Nurse,,IE
+CountryLookupValue,N15,Nursery Assistant,,IE
+CountryLookupValue,N16,Nursery Nurse,,IE
+CountryLookupValue,N17,Nursery Worker,,IE
+CountryLookupValue,N18,Nurseryman,,IE
+CountryLookupValue,N19,Nursing Assistant,,IE
+CountryLookupValue,N20,Nursing Auxiliary,,IE
+CountryLookupValue,N21,Nursing Manager,,IE
+CountryLookupValue,N22,Nursing Sister,,IE
+CountryLookupValue,N23,Nutritionist,,IE
+CountryLookupValue,O1,Occupational Health Consultant,,IE
+CountryLookupValue,O2,Occupational Health Nurse,,IE
+CountryLookupValue,O3,Occupational Therapist,,IE
+CountryLookupValue,O4,Oculist,,IE
+CountryLookupValue,O5,Off Shore Surveyor,,IE
+CountryLookupValue,O6,Office Administrator,,IE
+CountryLookupValue,O7,Office Manager,,IE
+CountryLookupValue,O8,Oil Broker,,IE
+CountryLookupValue,O9,Oil Rig Crew,,IE
+CountryLookupValue,O10,Opera Singer,,IE
+CountryLookupValue,O11,Operations Director,,IE
+CountryLookupValue,O12,Operations Manager,,IE
+CountryLookupValue,O13,Operations Supervisor,,IE
+CountryLookupValue,O14,Opthalmic Technician,,IE
+CountryLookupValue,O15,Optical Advisor,,IE
+CountryLookupValue,O16,Optical Assistant,,IE
+CountryLookupValue,O17,Optical Technician,,IE
+CountryLookupValue,O18,Optician,,IE
+CountryLookupValue,O19,Optometrist,,IE
+CountryLookupValue,O20,Orchestral Violinist,,IE
+CountryLookupValue,O21,Order Clerk,,IE
+CountryLookupValue,O22,Organist,,IE
+CountryLookupValue,O23,Ornamental Blacksmith,,IE
+CountryLookupValue,O24,Ornithologist,,IE
+CountryLookupValue,O25,Orthopaedic Technician,,IE
+CountryLookupValue,O26,Orthoptist,,IE
+CountryLookupValue,O27,Osteopath,,IE
+CountryLookupValue,O28,Ostler,,IE
+CountryLookupValue,O29,Other,,IE
+CountryLookupValue,O30,Outdoor Pursuits Instructor,,IE
+CountryLookupValue,O31,Outfitter,,IE
+CountryLookupValue,O32,Outreach Worker,,IE
+CountryLookupValue,O33,Overhead Line Instructor,,IE
+CountryLookupValue,O34,Overhead Lineman,,IE
+CountryLookupValue,O35,Overlocker,,IE
+CountryLookupValue,O36,Overseas Mailer,,IE
+CountryLookupValue,O37,Overwriter,,IE
+CountryLookupValue,P1,Packaging Consultant,,IE
+CountryLookupValue,P2,Packer,,IE
+CountryLookupValue,P3,Paediatrician,,IE
+CountryLookupValue,P4,Pager Operator,,IE
+CountryLookupValue,P5,Paint Consultant,,IE
+CountryLookupValue,P6,Paint Sprayer,,IE
+CountryLookupValue,P7,Painter,,IE
+CountryLookupValue,P8,Painter And Decorator,,IE
+CountryLookupValue,P9,Palaeobotanist,,IE
+CountryLookupValue,P10,Palaeontologist,,IE
+CountryLookupValue,P11,Pallet Maker,,IE
+CountryLookupValue,P12,Panel Beater,,IE
+CountryLookupValue,P13,Paper Mill Worker,,IE
+CountryLookupValue,P14,Parachute Packer,,IE
+CountryLookupValue,P15,Paramedic,,IE
+CountryLookupValue,P16,Park Attendant,,IE
+CountryLookupValue,P17,Park Keeper,,IE
+CountryLookupValue,P18,Park Ranger,,IE
+CountryLookupValue,P19,Partition Erector,,IE
+CountryLookupValue,P20,Parts Man,,IE
+CountryLookupValue,P21,Parts Manager,,IE
+CountryLookupValue,P22,Parts Supervisor,,IE
+CountryLookupValue,P23,Party Planner,,IE
+CountryLookupValue,P24,Pasteuriser,,IE
+CountryLookupValue,P25,Pastry Chef,,IE
+CountryLookupValue,P26,Patent Agent,,IE
+CountryLookupValue,P27,Patent Attorney,,IE
+CountryLookupValue,P28,Pathologist,,IE
+CountryLookupValue,P29,Patrol Person,,IE
+CountryLookupValue,P30,Patrolman,,IE
+CountryLookupValue,P31,Pattern Cutter,,IE
+CountryLookupValue,P32,Pattern Maker,,IE
+CountryLookupValue,P33,Pattern Weaver,,IE
+CountryLookupValue,P34,Paviour,,IE
+CountryLookupValue,P35,Pawnbroker,,IE
+CountryLookupValue,P36,Payment Officer,,IE
+CountryLookupValue,P37,Payroll Assistant,,IE
+CountryLookupValue,P38,Payroll Clerk,,IE
+CountryLookupValue,P39,Payroll Manager,,IE
+CountryLookupValue,P40,Payroll Supervisor,,IE
+CountryLookupValue,P41,Pearl Stringer,,IE
+CountryLookupValue,P42,Pedicurist,,IE
+CountryLookupValue,P43,Pensions Consultant,,IE
+CountryLookupValue,P44,Pensions Manager,,IE
+CountryLookupValue,P45,Personal Assistant,,IE
+CountryLookupValue,P46,Personnel Administrator,,IE
+CountryLookupValue,P47,Personnel Manager,,IE
+CountryLookupValue,P48,Personnel Officer,,IE
+CountryLookupValue,P49,Pest Control,,IE
+CountryLookupValue,P50,Pest Controller,,IE
+CountryLookupValue,P51,Pet Minder,,IE
+CountryLookupValue,P52,Petrol Station Attendant,,IE
+CountryLookupValue,P53,Petroleum Engineer,,IE
+CountryLookupValue,P54,Petty Officer,,IE
+CountryLookupValue,P55,Pharmaceutical Assistant,,IE
+CountryLookupValue,P56,Pharmacist,,IE
+CountryLookupValue,P57,Pharmacy Manager,,IE
+CountryLookupValue,P58,Pharmacy Technician,,IE
+CountryLookupValue,P59,Philatelist,,IE
+CountryLookupValue,P60,Phlebotomist,,IE
+CountryLookupValue,P61,Photo Engraver,,IE
+CountryLookupValue,P62,Photo Laboratory Processor,,IE
+CountryLookupValue,P63,Photo Technician,,IE
+CountryLookupValue,P64,Photocopy Machine Technician,,IE
+CountryLookupValue,P65,Photographer,,IE
+CountryLookupValue,P66,Photographic Agent,,IE
+CountryLookupValue,P67,Physician,,IE
+CountryLookupValue,P68,Physicist,,IE
+CountryLookupValue,P69,Physiologist,,IE
+CountryLookupValue,P70,Physiotherapist,,IE
+CountryLookupValue,P71,Piano Teacher,,IE
+CountryLookupValue,P72,Piano Tuner,,IE
+CountryLookupValue,P73,Picker,,IE
+CountryLookupValue,P74,Picture Editor,,IE
+CountryLookupValue,P75,Picture Framer,,IE
+CountryLookupValue,P76,Picture Researcher,,IE
+CountryLookupValue,P77,Pig Man,,IE
+CountryLookupValue,P78,Pig Manager,,IE
+CountryLookupValue,P79,Pilot,,IE
+CountryLookupValue,P80,Pipe Fitter,,IE
+CountryLookupValue,P81,Pipe Inspector,,IE
+CountryLookupValue,P82,Pipe Insulator,,IE
+CountryLookupValue,P83,Pipe Layer,,IE
+CountryLookupValue,P84,Planning Engineer,,IE
+CountryLookupValue,P85,Planning Manager,,IE
+CountryLookupValue,P86,Planning Officer,,IE
+CountryLookupValue,P87,Planning Technician,,IE
+CountryLookupValue,P88,Plant Attendant,,IE
+CountryLookupValue,P89,Plant Driver,,IE
+CountryLookupValue,P90,Plant Engineer,,IE
+CountryLookupValue,P91,Plant Fitter,,IE
+CountryLookupValue,P92,Plant Manager,,IE
+CountryLookupValue,P93,Plant Operator,,IE
+CountryLookupValue,P94,Plasterer,,IE
+CountryLookupValue,P95,Plastics Consultant,,IE
+CountryLookupValue,P96,Plastics Engineer,,IE
+CountryLookupValue,P97,Plate Layer,,IE
+CountryLookupValue,P98,Plater,,IE
+CountryLookupValue,P99,Playgroup Assistant,,IE
+CountryLookupValue,P100,Playgroup Leader,,IE
+CountryLookupValue,P101,Plumber,,IE
+CountryLookupValue,P102,Plumbing And Heating Engineer,,IE
+CountryLookupValue,P103,Podiatrist,,IE
+CountryLookupValue,P104,Police Officer,,IE
+CountryLookupValue,P105,Polisher,,IE
+CountryLookupValue,P106,Pool Attendant,,IE
+CountryLookupValue,P107,Pools Collector,,IE
+CountryLookupValue,P108,Porter,,IE
+CountryLookupValue,P109,Portfolio Manager,,IE
+CountryLookupValue,P110,Post Card Seller,,IE
+CountryLookupValue,P111,Post Office Counter Clerk,,IE
+CountryLookupValue,P112,Post Sorter,,IE
+CountryLookupValue,P113,Postman,,IE
+CountryLookupValue,P114,Postmaster,,IE
+CountryLookupValue,P115,Postwoman,,IE
+CountryLookupValue,P116,Potato Merchant,,IE
+CountryLookupValue,P117,Potter,,IE
+CountryLookupValue,P118,Practice Manager,,IE
+CountryLookupValue,P119,Preacher,,IE
+CountryLookupValue,P120,Precision Engineer,,IE
+CountryLookupValue,P121,Premises Security Installers,,IE
+CountryLookupValue,P122,Press Officer,,IE
+CountryLookupValue,P123,Press Operator,,IE
+CountryLookupValue,P124,Press Setter,,IE
+CountryLookupValue,P125,Presser,,IE
+CountryLookupValue,P126,Priest,,IE
+CountryLookupValue,P127,Print Finisher,,IE
+CountryLookupValue,P128,Printer,,IE
+CountryLookupValue,P129,Prison Chaplain,,IE
+CountryLookupValue,P130,Prison Officer,,IE
+CountryLookupValue,P131,Private Investigator,,IE
+CountryLookupValue,P132,Probation Officer,,IE
+CountryLookupValue,P133,Probation Worker,,IE
+CountryLookupValue,P134,Process Engineer,,IE
+CountryLookupValue,P135,Process Operator,,IE
+CountryLookupValue,P136,Process Worker,,IE
+CountryLookupValue,P137,Procurator Fiscal,,IE
+CountryLookupValue,P138,Produce Supervisor,,IE
+CountryLookupValue,P139,Producer,,IE
+CountryLookupValue,P140,Product Installer,,IE
+CountryLookupValue,P141,Product Manager,,IE
+CountryLookupValue,P142,Production Hand,,IE
+CountryLookupValue,P143,Production Manager,,IE
+CountryLookupValue,P144,Production Planner,,IE
+CountryLookupValue,P145,Professional Boxer,,IE
+CountryLookupValue,P146,Professional Racing Driver,,IE
+CountryLookupValue,P147,Professional Racing Motorcyclist,,IE
+CountryLookupValue,P148,Professional Wrestler,,IE
+CountryLookupValue,P149,Professor,,IE
+CountryLookupValue,P150,Progress Chaser,,IE
+CountryLookupValue,P151,Progress Clerk,,IE
+CountryLookupValue,P152,Project Co-Ordinator,,IE
+CountryLookupValue,P153,Project Engineer,,IE
+CountryLookupValue,P154,Project Leader,,IE
+CountryLookupValue,P155,Project Manager,,IE
+CountryLookupValue,P156,Project Worker,,IE
+CountryLookupValue,P157,Projectionist,,IE
+CountryLookupValue,P158,Promoter,,IE
+CountryLookupValue,P159,Proof Reader,,IE
+CountryLookupValue,P160,Property Buyer,,IE
+CountryLookupValue,P161,Property Dealer,,IE
+CountryLookupValue,P162,Property Developer,,IE
+CountryLookupValue,P163,Property Manager,,IE
+CountryLookupValue,P164,Property Valuer,,IE
+CountryLookupValue,P165,Proprietor,,IE
+CountryLookupValue,P166,Prosthetist,,IE
+CountryLookupValue,P167,Psychiatrist,,IE
+CountryLookupValue,P168,Psychoanalyst,,IE
+CountryLookupValue,P169,Psychologist,,IE
+CountryLookupValue,P170,Psychotherapist,,IE
+CountryLookupValue,P171,Public House Manager,,IE
+CountryLookupValue,P172,Public Relations Officer,,IE
+CountryLookupValue,P173,Publican,,IE
+CountryLookupValue,P174,Publicity Manager,,IE
+CountryLookupValue,P175,Publisher,,IE
+CountryLookupValue,P176,Publishing Manager,,IE
+CountryLookupValue,P177,Purchase Clerk,,IE
+CountryLookupValue,P178,Purchase Ledger Clerk,,IE
+CountryLookupValue,P179,Purchasing Assistant,,IE
+CountryLookupValue,P180,Purchasing Manager,,IE
+CountryLookupValue,P181,Purser,,IE
+CountryLookupValue,Q1,Quality Controller,,IE
+CountryLookupValue,Q2,Quality Engineer,,IE
+CountryLookupValue,Q3,Quality Inspector,,IE
+CountryLookupValue,Q4,Quality Manager,,IE
+CountryLookupValue,Q1,Quality Technician,,IE
+CountryLookupValue,Q2,Quantity Surveyor,,IE
+CountryLookupValue,Q3,Quarry Worker,,IE
+CountryLookupValue,Q4,Queens Council,,IE
+CountryLookupValue,R1,Rabbi,,IE
+CountryLookupValue,R2,Racehorse Groom,,IE
+CountryLookupValue,R3,Racing organiser,,IE
+CountryLookupValue,R4,Radio Controller,,IE
+CountryLookupValue,R5,Radio Director,,IE
+CountryLookupValue,R6,Radio Engineer,,IE
+CountryLookupValue,R7,Radio Operator,,IE
+CountryLookupValue,R8,Radio Presenter,,IE
+CountryLookupValue,R9,Radio Producer,,IE
+CountryLookupValue,R10,Radiographer,,IE
+CountryLookupValue,R11,Radiologist,,IE
+CountryLookupValue,R12,Rally Driver,,IE
+CountryLookupValue,R13,Ramp Agent,,IE
+CountryLookupValue,R14,Receptionist,,IE
+CountryLookupValue,R15,Records Supervisor,,IE
+CountryLookupValue,R16,Recovery Vehicle Co-Ordinator,,IE
+CountryLookupValue,R17,Recruitment Consultant,,IE
+CountryLookupValue,R18,Rector,,IE
+CountryLookupValue,R19,Referee,,IE
+CountryLookupValue,R20,Refit Merchandiser,,IE
+CountryLookupValue,R21,Reflexologist,,IE
+CountryLookupValue,R22,Refractory Engineer,,IE
+CountryLookupValue,R23,Refrigeration Engineer,,IE
+CountryLookupValue,R24,Refuse Collector,,IE
+CountryLookupValue,R25,Registrar,,IE
+CountryLookupValue,R26,Regulator,,IE
+CountryLookupValue,R27,Relocation Agent,,IE
+CountryLookupValue,R28,Remedial Therapist,,IE
+CountryLookupValue,R29,Rent Collector,,IE
+CountryLookupValue,R30,Rent Officer,,IE
+CountryLookupValue,R31,Repair Man,,IE
+CountryLookupValue,R32,Reporter,,IE
+CountryLookupValue,R33,Reprographic Assistant,,IE
+CountryLookupValue,R34,Research Analyst,,IE
+CountryLookupValue,R35,Research Consultant,,IE
+CountryLookupValue,R36,Research Director,,IE
+CountryLookupValue,R37,Research Scientist,,IE
+CountryLookupValue,R38,Research Technician,,IE
+CountryLookupValue,R39,Researcher,,IE
+CountryLookupValue,R40,Re-Settlement Officer,,IE
+CountryLookupValue,R41,Resin Caster,,IE
+CountryLookupValue,R42,Restaurant Manager,,IE
+CountryLookupValue,R43,Restaurateur,,IE
+CountryLookupValue,R44,Restorer,,IE
+CountryLookupValue,R45,Retired,,IE
+CountryLookupValue,R46,Revenue Clerk,,IE
+CountryLookupValue,R47,Revenue Officer,,IE
+CountryLookupValue,R48,Rig Worker,,IE
+CountryLookupValue,R49,Rigger,,IE
+CountryLookupValue,R50,Riveter,,IE
+CountryLookupValue,R51,Road Safety Officer,,IE
+CountryLookupValue,R52,Road Sweeper,,IE
+CountryLookupValue,R53,Road Worker,,IE
+CountryLookupValue,R54,Roof Tiler,,IE
+CountryLookupValue,R55,Roofer,,IE
+CountryLookupValue,R56,Rose Grower,,IE
+CountryLookupValue,R57,Royal Marine,,IE
+CountryLookupValue,R58,Rug Maker,,IE
+CountryLookupValue,S1,Saddler,,IE
+CountryLookupValue,S2,Safety Officer,,IE
+CountryLookupValue,S3,Sales Administrator,,IE
+CountryLookupValue,S4,Sales Assistant,,IE
+CountryLookupValue,S5,Sales Director,,IE
+CountryLookupValue,S6,Sales Engineer,,IE
+CountryLookupValue,S7,Sales Executive,,IE
+CountryLookupValue,S8,Sales Manager,,IE
+CountryLookupValue,S9,Sales Representative,,IE
+CountryLookupValue,S10,Sales Support,,IE
+CountryLookupValue,S11,Sales Woman,,IE
+CountryLookupValue,S12,Salesman,,IE
+CountryLookupValue,S13,Sand Blaster,,IE
+CountryLookupValue,S14,Saw Miller,,IE
+CountryLookupValue,S15,Scaffolder,,IE
+CountryLookupValue,S16,School Crossing Warden,,IE
+CountryLookupValue,S17,School Inspector,,IE
+CountryLookupValue,S18,Scientific Officer,,IE
+CountryLookupValue,S19,Scientist,,IE
+CountryLookupValue,S20,Scrap Dealer,,IE
+CountryLookupValue,S21,Screen Printer,,IE
+CountryLookupValue,S22,Screen Writer,,IE
+CountryLookupValue,S23,Script Writer,,IE
+CountryLookupValue,S24,Sculptor,,IE
+CountryLookupValue,S25,Seaman,,IE
+CountryLookupValue,S26,Seamstress,,IE
+CountryLookupValue,S27,Second Hand Dealer,,IE
+CountryLookupValue,S28,Secretary,,IE
+CountryLookupValue,S29,Secretary and Pa,,IE
+CountryLookupValue,S30,Security Consultant,,IE
+CountryLookupValue,S31,Security Controller,,IE
+CountryLookupValue,S32,Security Guard,,IE
+CountryLookupValue,S33,Security Officer,,IE
+CountryLookupValue,S34,Seedsman,,IE
+CountryLookupValue,S35,Semi-Professional Sportsperson,,IE
+CountryLookupValue,S36,Senator,,IE
+CountryLookupValue,S37,Service Engineer,,IE
+CountryLookupValue,S38,Service Manager,,IE
+CountryLookupValue,S39,Share Dealer,,IE
+CountryLookupValue,S40,Sheet Metal Worker,,IE
+CountryLookupValue,S41,Shelf Filler,,IE
+CountryLookupValue,S42,Shelter Warden,,IE
+CountryLookupValue,S43,Shepherd,,IE
+CountryLookupValue,S44,Sheriff,,IE
+CountryLookupValue,S45,Sheriff Clerk,,IE
+CountryLookupValue,S46,Sheriff Principal,,IE
+CountryLookupValue,S47,Sheriffs Officer,,IE
+CountryLookupValue,S48,Shift Controller,,IE
+CountryLookupValue,S49,Ship Broker,,IE
+CountryLookupValue,S50,Ship Builder,,IE
+CountryLookupValue,S51,Shipping Clerk,,IE
+CountryLookupValue,S52,Shipping Officer,,IE
+CountryLookupValue,S53,Shipwright,,IE
+CountryLookupValue,S54,Shoe Maker,,IE
+CountryLookupValue,S55,Shoe Repairer,,IE
+CountryLookupValue,S56,Shooting Instructor,,IE
+CountryLookupValue,S57,Shop Assistant,,IE
+CountryLookupValue,S58,Shop Fitter,,IE
+CountryLookupValue,S59,Shop Keeper,,IE
+CountryLookupValue,S60,Shop Manager,,IE
+CountryLookupValue,S61,Shop Proprietor,,IE
+CountryLookupValue,S62,Shot Blaster,,IE
+CountryLookupValue,S63,Show Jumper,,IE
+CountryLookupValue,S64,Showman,,IE
+CountryLookupValue,S65,Shunter,,IE
+CountryLookupValue,S66,Sign Maker,,IE
+CountryLookupValue,S67,Signalman,,IE
+CountryLookupValue,S68,Signwriter,,IE
+CountryLookupValue,S69,Site Agent,,IE
+CountryLookupValue,S70,Site Engineer,,IE
+CountryLookupValue,S71,Skipper,,IE
+CountryLookupValue,S72,Slater,,IE
+CountryLookupValue,S73,Slaughterman,,IE
+CountryLookupValue,S74,Smallholder,,IE
+CountryLookupValue,S75,Social Worker,,IE
+CountryLookupValue,S76,Software Consultant,,IE
+CountryLookupValue,S77,Software Engineer,,IE
+CountryLookupValue,S78,Soldier,,IE
+CountryLookupValue,S79,Solicitor,,IE
+CountryLookupValue,S80,Song Writer,,IE
+CountryLookupValue,S81,Sorter,,IE
+CountryLookupValue,S82,Sound Engineer,,IE
+CountryLookupValue,S83,Sound Technician,,IE
+CountryLookupValue,S84,Special Constable,,IE
+CountryLookupValue,S85,Special Needs Assistant,,IE
+CountryLookupValue,S86,Speech Therapist,,IE
+CountryLookupValue,S87,Spinner,,IE
+CountryLookupValue,S88,Sports Centre Attendant,,IE
+CountryLookupValue,S89,Sports Coach,,IE
+CountryLookupValue,S90,Sports Commentator,,IE
+CountryLookupValue,S91,Sportsman,,IE
+CountryLookupValue,S92,Sportswoman,,IE
+CountryLookupValue,S93,Spring Maker,,IE
+CountryLookupValue,S94,Stable Hand,,IE
+CountryLookupValue,S95,Staff Nurse,,IE
+CountryLookupValue,S96,Stage Director,,IE
+CountryLookupValue,S97,Stage Manager,,IE
+CountryLookupValue,S98,Stage Mover,,IE
+CountryLookupValue,S99,Station Manager,,IE
+CountryLookupValue,S100,Stationer,,IE
+CountryLookupValue,S101,Statistician,,IE
+CountryLookupValue,S102,Steel Erector,,IE
+CountryLookupValue,S103,Steel Worker,,IE
+CountryLookupValue,S104,Steeplejack,,IE
+CountryLookupValue,S105,Stenographer,,IE
+CountryLookupValue,S106,Stevedore,,IE
+CountryLookupValue,S107,Steward,,IE
+CountryLookupValue,S108,Stewardess,,IE
+CountryLookupValue,S109,Stock Controller,,IE
+CountryLookupValue,S110,Stock Manager,,IE
+CountryLookupValue,S111,Stockbroker,,IE
+CountryLookupValue,S112,Stockman,,IE
+CountryLookupValue,S113,Stocktaker,,IE
+CountryLookupValue,S114,Stone Cutter,,IE
+CountryLookupValue,S115,Stone Sawyer,,IE
+CountryLookupValue,S116,Stonemason,,IE
+CountryLookupValue,S117,Store Detective,,IE
+CountryLookupValue,S118,Storeman,,IE
+CountryLookupValue,S119,Storewoman,,IE
+CountryLookupValue,S120,Street Entertainer,,IE
+CountryLookupValue,S121,Street Trader,,IE
+CountryLookupValue,S122,Stud Hand,,IE
+CountryLookupValue,S123,Stud Manager,,IE
+CountryLookupValue,S124,Student,,IE
+CountryLookupValue,S125,Student Nurse,,IE
+CountryLookupValue,S126,Student Teacher,,IE
+CountryLookupValue,S127,Studio Manager,,IE
+CountryLookupValue,S128,Sub-Postmaster,,IE
+CountryLookupValue,S129,Sub-Postmistress,,IE
+CountryLookupValue,S130,Supervisor,,IE
+CountryLookupValue,S131,Supply Teacher,,IE
+CountryLookupValue,S132,Surgeon,,IE
+CountryLookupValue,S133,Surveyor,,IE
+CountryLookupValue,S134,Systems Analyst,,IE
+CountryLookupValue,S135,Systems Engineer,,IE
+CountryLookupValue,S136,Systems Manager,,IE
+CountryLookupValue,T1,Tachograph Analyst,,IE
+CountryLookupValue,T2,Tacker,,IE
+CountryLookupValue,T3,Tailor,,IE
+CountryLookupValue,T4,Tank Farm Operative,,IE
+CountryLookupValue,T5,Tanker Driver,,IE
+CountryLookupValue,T6,Tanner,,IE
+CountryLookupValue,T7,Tarmacer,,IE
+CountryLookupValue,T8,Tarot Reader/Palmistry Expert,,IE
+CountryLookupValue,T9,Tattooist,,IE
+CountryLookupValue,T10,Tax Advisor,,IE
+CountryLookupValue,T11,Tax Analyst,,IE
+CountryLookupValue,T12,Tax Assistant,,IE
+CountryLookupValue,T13,Tax Consultant,,IE
+CountryLookupValue,T14,Tax Inspector,,IE
+CountryLookupValue,T15,Tax Manager,,IE
+CountryLookupValue,T16,Tax Officer,,IE
+CountryLookupValue,T17,Taxi Controller,,IE
+CountryLookupValue,T18,Taxi Driver,,IE
+CountryLookupValue,T19,Taxidermist,,IE
+CountryLookupValue,T20,Td/Senator,,IE
+CountryLookupValue,T21,Tea Blender,,IE
+CountryLookupValue,T22,Tea Taster,,IE
+CountryLookupValue,T23,Teacher,,IE
+CountryLookupValue,T24,Teachers Assistant,,IE
+CountryLookupValue,T25,Technical Advisor,,IE
+CountryLookupValue,T26,Technical Analyst,,IE
+CountryLookupValue,T27,Technical Assistant,,IE
+CountryLookupValue,T28,Technical Author,,IE
+CountryLookupValue,T29,Technical Clerk,,IE
+CountryLookupValue,T30,Technical Co-ordinator,,IE
+CountryLookupValue,T31,Technical Director,,IE
+CountryLookupValue,T32,Technical Editor,,IE
+CountryLookupValue,T33,Technical Engineer,,IE
+CountryLookupValue,T34,Technical Illustrator,,IE
+CountryLookupValue,T35,Technical Instructor,,IE
+CountryLookupValue,T36,Technical Liaison Engineer,,IE
+CountryLookupValue,T37,Technical Manager,,IE
+CountryLookupValue,T38,Telecommunication Consultant,,IE
+CountryLookupValue,T39,Telecommunications Engineer,,IE
+CountryLookupValue,T40,Telecommunications Manager,,IE
+CountryLookupValue,T41,Telegraphist,,IE
+CountryLookupValue,T42,Telemarketeer,,IE
+CountryLookupValue,T43,Telephone Engineer,,IE
+CountryLookupValue,T44,Telephonist,,IE
+CountryLookupValue,T45,Telesales Person,,IE
+CountryLookupValue,T46,Television Director,,IE
+CountryLookupValue,T47,Television Engineer,,IE
+CountryLookupValue,T48,Television Presenter,,IE
+CountryLookupValue,T49,Television Producer,,IE
+CountryLookupValue,T50,Telex Operator,,IE
+CountryLookupValue,T51,Temperature Time Recorder,,IE
+CountryLookupValue,T52,Tennis Coach,,IE
+CountryLookupValue,T53,Terrier,,IE
+CountryLookupValue,T54,Textile Consultant,,IE
+CountryLookupValue,T55,Textile Engineer,,IE
+CountryLookupValue,T56,Textile Technician,,IE
+CountryLookupValue,T57,Textile Worker,,IE
+CountryLookupValue,T58,Thatcher,,IE
+CountryLookupValue,T59,Theatre Manager,,IE
+CountryLookupValue,T60,Theatre Technician,,IE
+CountryLookupValue,T61,Theatrical Agent,,IE
+CountryLookupValue,T62,Therapist,,IE
+CountryLookupValue,T63,Thermal Engineer,,IE
+CountryLookupValue,T64,Thermal Insulator,,IE
+CountryLookupValue,T65,Ticket Agent,,IE
+CountryLookupValue,T66,Ticket Inspector,,IE
+CountryLookupValue,T67,Tiler,,IE
+CountryLookupValue,T68,Timber Inspector,,IE
+CountryLookupValue,T69,Timber Worker,,IE
+CountryLookupValue,T70,Tobacconist,,IE
+CountryLookupValue,T71,Toll Collector,,IE
+CountryLookupValue,T72,Tool Maker,,IE
+CountryLookupValue,T73,Tool Setter,,IE
+CountryLookupValue,T74,Tour Agent,,IE
+CountryLookupValue,T75,Tour Guide,,IE
+CountryLookupValue,T76,Town Clerk,,IE
+CountryLookupValue,T77,Town Planner,,IE
+CountryLookupValue,T78,Toy Maker,,IE
+CountryLookupValue,T79,Toy Trader,,IE
+CountryLookupValue,T80,Track Worker,,IE
+CountryLookupValue,T81,Tractor Driver,,IE
+CountryLookupValue,T82,Tractor Mechanic,,IE
+CountryLookupValue,T83,Trade Mark Agent,,IE
+CountryLookupValue,T84,Trade Union Official,,IE
+CountryLookupValue,T85,Trading Standards Officer,,IE
+CountryLookupValue,T86,Traffic Clerk,,IE
+CountryLookupValue,T87,Traffic Engineer,,IE
+CountryLookupValue,T88,Traffic Officer,,IE
+CountryLookupValue,T89,Traffic Planner,,IE
+CountryLookupValue,T90,Traffic Supervisor,,IE
+CountryLookupValue,T91,Traffic Warden,,IE
+CountryLookupValue,T92,Train Driver,,IE
+CountryLookupValue,T93,Trainee Manager,,IE
+CountryLookupValue,T94,Trainer,,IE
+CountryLookupValue,T95,Training Advisor,,IE
+CountryLookupValue,T96,Training Assistant,,IE
+CountryLookupValue,T97,Training Consultant,,IE
+CountryLookupValue,T98,Training Co-Ordinator,,IE
+CountryLookupValue,T99,Training Instructor,,IE
+CountryLookupValue,T100,Training Manager,,IE
+CountryLookupValue,T101,Training Officer,,IE
+CountryLookupValue,T102,Transcriber,,IE
+CountryLookupValue,T103,Translator,,IE
+CountryLookupValue,T104,Transport Clerk,,IE
+CountryLookupValue,T105,Transport Consultant,,IE
+CountryLookupValue,T106,Transport Controller,,IE
+CountryLookupValue,T107,Transport Engineer,,IE
+CountryLookupValue,T108,Transport Manager,,IE
+CountryLookupValue,T109,Transport Officer,,IE
+CountryLookupValue,T110,Transport Planner,,IE
+CountryLookupValue,T111,Travel Agent,,IE
+CountryLookupValue,T112,Travel Clerk,,IE
+CountryLookupValue,T113,Travel Consultant,,IE
+CountryLookupValue,T114,Travel Courier,,IE
+CountryLookupValue,T115,Travel Guide,,IE
+CountryLookupValue,T116,Travel Guide Writer,,IE
+CountryLookupValue,T117,Travel Representative,,IE
+CountryLookupValue,T118,Treasurer,,IE
+CountryLookupValue,T119,Tree Feller,,IE
+CountryLookupValue,T120,Tree Surgeon,,IE
+CountryLookupValue,T121,Trichologist,,IE
+CountryLookupValue,T122,Trinity House Pilot,,IE
+CountryLookupValue,T123,Trout Farmer,,IE
+CountryLookupValue,T124,T-Shirt Printer,,IE
+CountryLookupValue,T125,Tug Skipper,,IE
+CountryLookupValue,T126,Tunneller,,IE
+CountryLookupValue,T127,Turf Accountant,,IE
+CountryLookupValue,T128,Turkey Farmer,,IE
+CountryLookupValue,T129,Turner,,IE
+CountryLookupValue,T130,Tutor,,IE
+CountryLookupValue,T131,Tv and Video Installer,,IE
+CountryLookupValue,T132,Tv and Video Repairer,,IE
+CountryLookupValue,T133,Tv Editor,,IE
+CountryLookupValue,T134,Typesetter,,IE
+CountryLookupValue,T135,Typewriter Engineer,,IE
+CountryLookupValue,T136,Typist,,IE
+CountryLookupValue,T137,Tyre Builder,,IE
+CountryLookupValue,T138,Tyre Fitter,,IE
+CountryLookupValue,T139,Tyre Inspector,,IE
+CountryLookupValue,T140,Tyre Technician,,IE
+CountryLookupValue,U1,Umpire,,IE
+CountryLookupValue,U2,Undertaker,,IE
+CountryLookupValue,U3,Underwriter,,IE
+CountryLookupValue,U4,Unemployed,,IE
+CountryLookupValue,U5,Upholsterer,,IE
+CountryLookupValue,U6,Usher,,IE
+CountryLookupValue,V1,Valuer,,IE
+CountryLookupValue,V2,Valve Technician,,IE
+CountryLookupValue,V3,Van Driver,,IE
+CountryLookupValue,V4,Vdu Operator,,IE
+CountryLookupValue,V5,Vehicle Assessor,,IE
+CountryLookupValue,V6,Vehicle Engineer,,IE
+CountryLookupValue,V7,Vehicle Technician,,IE
+CountryLookupValue,V8,Vending Machine Filler,,IE
+CountryLookupValue,V9,Vending Machine Technician,,IE
+CountryLookupValue,V10,Ventriloquist,,IE
+CountryLookupValue,V11,Verger,,IE
+CountryLookupValue,V12,Veterinary Assistant,,IE
+CountryLookupValue,V13,Veterinary Surgeon,,IE
+CountryLookupValue,V14,Vicar,,IE
+CountryLookupValue,V15,Violin Maker,,IE
+CountryLookupValue,V16,Voluntary Worker,,IE
+CountryLookupValue,W1,Wages Clerk,,IE
+CountryLookupValue,W2,Waiter,,IE
+CountryLookupValue,W3,Waitress,,IE
+CountryLookupValue,W4,Warehouse Manager,,IE
+CountryLookupValue,W5,Warehouseman,,IE
+CountryLookupValue,W6,Warehousewoman,,IE
+CountryLookupValue,W7,Waste Dealer,,IE
+CountryLookupValue,W8,Watchmaker,,IE
+CountryLookupValue,W9,Water Diviner,,IE
+CountryLookupValue,W10,Weaver,,IE
+CountryLookupValue,W11,Web Designer,,IE
+CountryLookupValue,W12,Weighbridge Clerk,,IE
+CountryLookupValue,W13,Weighbridge Operator,,IE
+CountryLookupValue,W14,Welder,,IE
+CountryLookupValue,W15,Welfare Assistant,,IE
+CountryLookupValue,W16,Welfare Officer,,IE
+CountryLookupValue,W17,Welfare Rights Officer,,IE
+CountryLookupValue,W18,Wheel Clamper,,IE
+CountryLookupValue,W19,Wholesale Newspaper Delivery Driver,,IE
+CountryLookupValue,W20,Wholesaler,,IE
+CountryLookupValue,W21,Window Cleaner,,IE
+CountryLookupValue,W22,Window Dresser,,IE
+CountryLookupValue,W23,Windscreen Fitter,,IE
+CountryLookupValue,W24,Wine Merchant,,IE
+CountryLookupValue,W25,Wood Carver,,IE
+CountryLookupValue,W26,Wood Cutter,,IE
+CountryLookupValue,W27,Wood Worker,,IE
+CountryLookupValue,W28,Word Processing Operator,,IE
+CountryLookupValue,W29,Works Manager,,IE
+CountryLookupValue,W30,Writer,,IE
+CountryLookupValue,Y1,Yacht Master,,IE
+CountryLookupValue,Y2,Yard Manager,,IE
+CountryLookupValue,Y3,Yoga Teacher,,IE
+CountryLookupValue,Y4,Youth Hostel Warden,,IE
+CountryLookupValue,Y5,Youth Worker,,IE
+CountryLookupValue,Z1,Zoo Keeper,,IE
+CountryLookupValue,Z2,Zoo Manager,,IE
+CountryLookupValue,Z3,Zoologist,,IE
+CountryLookupValue,Z4,Zoology Consultant,,IE

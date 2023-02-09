@@ -1,5 +1,3 @@
-//Example for unstaging
-//Example for stash
 //Lets cover this topic
 // Example for stash
 public class PrimeExample{    
